@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bohemian/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Bohemian](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bohemian/) |
+| **Get License** | [Get License For Bohemian](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bohemian/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অন্ধকার এই রাতে জাগে কেমন হাহাকার
+> তুমি ছাড়া পৃথিবীটা লাগে শুধু অন্ধকার
+> মায়াবী আলোয় খুঁজি তোমারই তো নিশানা
+> হৃদয়ের এই তৃষ্ণা তুমি কি আজ বোঝো না
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
