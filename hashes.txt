@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bohemian
+
+This log tracks the cryptographic history and versioning for the song **Bohemian** (bohemian).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T02:48:42.920029 | `v1` | `cadccce32c9eb1428a62c95592e633065b9f09edc4be3f2b2cae40137c1db8a7` | `880ee99a86d75f8415312edb6084bfb453405aace377a7f013abdaf2992e3cff` | `2026-05-11_bohemian-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
